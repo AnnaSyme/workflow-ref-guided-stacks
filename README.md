@@ -42,3 +42,5 @@ populations:
 * Snp calls, in VCF format
 * Haplotypes, in VCF format
 * Summary statistics
+
+![qc-wf](wf-ref-guided.png)
